@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rarl18
-- 👀 I’m interested in learn Python
+- 👀 I’m interested in learning Python
 - 🌱 I’m currently learning Basic Programming Tools
 - 📫 How to reach me by email
 
